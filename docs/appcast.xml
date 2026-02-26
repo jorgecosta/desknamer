@@ -14,7 +14,7 @@
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/jorgecosta/desknamer/releases/download/v1.1.2/DeskNamer.dmg"
-        sparkle:edSignature="PLACEHOLDER_REPLACE_AFTER_SPARKLE_SETUP"
+        sparkle:edSignature="eleflfyobPshfxZNEkdkX6OJPIXlYJARGrImzj3dF14xdZlfEs8L1/h06P/Ykq3uEw359q3VIEKa0naL2/bBBw=="
         length="3239946"
         type="application/octet-stream"/>
     </item>
